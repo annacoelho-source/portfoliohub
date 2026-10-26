@@ -7,4 +7,4 @@ Plataforma para exibir meus projetos acadêmicos e pessoais
    - certificados/ — certificados e cursos
 
    ## Autora
-   Anna Luiza Alves Coelho — Análise e Desenvolvimento de Sistenas 
+   Anna Luiza Alves Coelho — Análise e Desenvolvimento de Sistemas
